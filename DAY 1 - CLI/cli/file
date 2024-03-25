@@ -1,0 +1,12 @@
+CLI-command line interface
+rmdir-remove directory
+mkdir-make directory
+clear or cls
+cd- current directory
+pwd-print current directory
+ls-open dir
+echo-create out
+del-delete file
+ren-rename       (ren file.txt-newname)
+copy-copy file   (copy filename (dir)
+move-move file   (copy filename (dir)

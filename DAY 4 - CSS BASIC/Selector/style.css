@@ -1,0 +1,55 @@
+
+
+p {
+    color: red;
+  }
+
+/* Element Selector */
+
+p {color: brown;}
+
+/* asterisk(*)-universal selector */
+
+*{
+    color: violet;
+}
+
+/* Class Selector */
+.class-sample{
+    color: aqua;
+}
+
+/* ID Selector(#) */
+#id-sample{
+    color: black;
+}
+/* Attribute Selector */
+/* Targeting the href value */
+element[href]{
+    color: rgb(184, 71, 255);
+}
+
+a[href="http://www.google.com"]{
+    color:pink;
+}
+
+/* Grouping Selector */
+
+h1,h2,h3{
+    background-color: beige;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.heading1, #heading2, h3 {
+
+    background-color: #FE4F02;
+    color:#04859C;
+}
+
+/* Peudo-class Selector */
+.heading1:hover{
+    background-color: aqua;
+}
+
+
